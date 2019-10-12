@@ -1,0 +1,2 @@
+temp = "hello"
+print(temp)
